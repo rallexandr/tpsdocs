@@ -15,6 +15,7 @@ nav:
  - 11. Получение списка параметров сервиса: pages/getsrvInfobycode.md
  - 12. Коды  ошибок: pages/errorcodes.md
  - 13. AML: pages/aml.md
+ - 14. TPS Vault: pages/tps_vault.md
 
 theme:
   name: material
